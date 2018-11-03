@@ -17,3 +17,4 @@ student3 = 35
  end
  
  # studentName << "Jane"
+ printSudentName
