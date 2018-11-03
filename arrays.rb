@@ -6,8 +6,13 @@ student3 = 35
 #puts student2
 #puts student3
 
-studentAges = [25, 32, 35]
-puts studentAges
-studentNames = ["Ann", "Jake", "Josh"]
-puts studentNames
+#studentAges = [25, 32, 35]
+#puts studentAges
+#studentNames = ["Ann", "Jake", "Josh"]
+#puts studentNames
+ 
+ def printSudentName
+   studentName = ["Ann", "Jake", "Josh"]
+   puts studentName [1] 
+ end
  
