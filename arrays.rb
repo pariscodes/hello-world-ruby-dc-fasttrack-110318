@@ -6,5 +6,7 @@ student3 = 35
 #puts student2
 #puts student3
 
-students = [25, 32, 35]
-puts students
+studentAges = [25, 32, 35]
+puts studentAges
+studentNames = ["Ann", "Jake", "Josh"]
+puts studentNames
