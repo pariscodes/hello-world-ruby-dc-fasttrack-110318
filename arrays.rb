@@ -10,3 +10,4 @@ studentAges = [25, 32, 35]
 puts studentAges
 studentNames = ["Ann", "Jake", "Josh"]
 puts studentNames
+ 
