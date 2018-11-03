@@ -16,4 +16,4 @@ student3 = 35
    puts studentName [1] 
  end
  
- <<"Jane"
+ # studentName << "Jane"
