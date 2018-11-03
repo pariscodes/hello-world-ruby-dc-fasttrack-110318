@@ -7,3 +7,4 @@ puts student2
 puts student3
 
 students = [25, 32, 35]
+puts students
